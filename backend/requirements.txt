@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pytesseract
+opencv-python
+pillow
+python-multipart
+pandas
+openpyxl
+sqlalchemy
